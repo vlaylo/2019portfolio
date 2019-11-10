@@ -1,7 +1,7 @@
 header {
     width: 100%;
     background: black;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-items: center;
 
@@ -28,6 +28,11 @@ header {
         
         
     }
+}
+
+#header-name {
+    color: white;
+    font-weight: bold;
 }
 
 #mobile-menu {

@@ -44,6 +44,9 @@
     <!-- <div id="main-logo-container">
         <a href="<?php echo get_site_url() ?>"><img id="logo" src="<?php echo get_site_url() ?>/wp-content/uploads/2019/11/BK-Dental-sample-logo.svg"></a>               
     </div> -->
+    <div id="header-name">
+        VINCE JOSHUA LAYLO
+        </div>
 
     <div id="main-header-menu-container"> 
         <?php wp_nav_menu(array( 
