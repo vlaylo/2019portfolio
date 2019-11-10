@@ -2,6 +2,8 @@ header {
     width: 100%;
     background: black;
     height: 50px;
+    display: flex;
+    align-items: center;
 }
 
 #mobile-menu {
@@ -12,17 +14,27 @@ header {
     display: none;
 }
 
-.menu-menu-1-container {
 
-    .menu {
-        display: flex;
-        list-style: none;
+.main-header {
+    #main-header-menu {
+        width: 100%;
 
-        li {
-            margin-right: 2em;
-            color: white;
-            font-weight: bold;
+        .menu-menu-1-container {
+            float: right;
+            .menu {
+                display: flex;
+                list-style: none;
+        
+                li {
+                    margin-right: 2em;
+                    color: white;
+                    font-weight: bold;
+                }
+            }
         }
     }
+
+    
 }
+
 
