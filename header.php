@@ -40,8 +40,7 @@
 
 
 <header id="main-header">
-the monkey's paw<!-- @Vince here I replaced your hardcoded IP address for the site with the wordpress function that dynamically grabs the correct url  from the database. 
-This is important because this way we will not have to manually update this file when the site goes live.  -Will -->
+
     <!-- <div id="main-logo-container">
         <a href="<?php echo get_site_url() ?>"><img id="logo" src="<?php echo get_site_url() ?>/wp-content/uploads/2019/11/BK-Dental-sample-logo.svg"></a>               
     </div> -->

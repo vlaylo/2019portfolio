@@ -1,3 +1,9 @@
+header {
+    width: 100%;
+    background: black;
+    height: 50px;
+}
+
 #mobile-menu {
     display: none;
 }
@@ -14,6 +20,8 @@
 
         li {
             margin-right: 2em;
+            color: white;
+            font-weight: bold;
         }
     }
 }
