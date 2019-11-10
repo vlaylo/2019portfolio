@@ -4,18 +4,8 @@ header {
     height: 50px;
     display: flex;
     align-items: center;
-}
 
-#mobile-menu {
-    display: none;
-}
-
-.mm-inner {
-    display: none;
-}
-
-
-.main-header {
+    
     #main-header-menu-container {
         width: 100%;
         .menu-menu-1-container {
@@ -35,3 +25,13 @@ header {
         
     }
 }
+
+#mobile-menu {
+    display: none;
+}
+
+.mm-inner {
+    display: none;
+}
+
+
