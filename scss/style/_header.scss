@@ -18,19 +18,20 @@ header {
 .main-header {
     #main-header-menu-container {
         width: 100%;
-    }
-}
-.menu-menu-1-container {
-    float: right;
-    .menu {
-        display: flex;
-        list-style: none;
-
-        li {
-            margin-right: 2em;
-            color: white;
-            font-weight: bold;
+        .menu-menu-1-container {
+            float: right;
+            .menu {
+                display: flex;
+                list-style: none;
+        
+                li {
+                    margin-right: 2em;
+                    color: white;
+                    font-weight: bold;
+                }
+            }
         }
+        
+        
     }
 }
-
