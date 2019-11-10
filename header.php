@@ -41,7 +41,7 @@
 
 <header id="main-header">
 THIS IS HEADERSSS
-fasffasdf
+fasffasdffasdfasd
 <!-- @Vince here I replaced your hardcoded IP address for the site with the wordpress function that dynamically grabs the correct url  from the database. 
 This is important because this way we will not have to manually update this file when the site goes live.  -Will -->
     <!-- <div id="main-logo-container">
