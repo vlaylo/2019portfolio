@@ -11,6 +11,10 @@
     .menu {
         display: flex;
         list-style: none;
+
+        li {
+            margin-right: 2em;
+        }
     }
 }
 
