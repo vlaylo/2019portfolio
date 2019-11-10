@@ -24,8 +24,6 @@
 
 
 <div id="mobile-menu">
-
-    THIS IS HEADERSSS
     <div class="mm-inner">
         <?php wp_nav_menu(array( 
                             'theme_location' => 'main-menu1'
@@ -42,6 +40,7 @@
 
 
 <header id="main-header">
+THIS IS HEADERSSS
 
 <!-- @Vince here I replaced your hardcoded IP address for the site with the wordpress function that dynamically grabs the correct url  from the database. 
 This is important because this way we will not have to manually update this file when the site goes live.  -Will -->
