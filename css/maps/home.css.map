@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.scss"],"names":[],"mappings":"AAEA,IACI,YAAa,CAChB,cAGG,YAAa","file":"../home.css","sourcesContent":["@import '../variables';\n\ndiv {\n    border: solid;\n}\n\n.entry-footer{\n    display: none;\n}"]}
