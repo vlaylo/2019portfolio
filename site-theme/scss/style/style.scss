@@ -1,0 +1,21 @@
+/*!
+Theme Name: Vince Laylo Theme
+
+Author: Vince
+Author URI: http://vincelaylo.com
+Version: 1.0.0
+Text Domain: vincelaylo
+
+
+*/
+
+@import '../variables';
+@import 'normalize';
+@import 'common'; 
+@import 'header';
+@import 'menu'; 
+@import 'footer'; 
+
+@import 'override';
+@import 'pages'
+  

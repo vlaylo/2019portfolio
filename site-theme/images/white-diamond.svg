@@ -1,0 +1,10 @@
+<svg id="ad511215-eaef-479d-b824-d3bbbe95cf9a" preserveAspectRatio="none" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 50 30">
+  <title>white-diamond</title>
+      <filter id="blurMe">
+       <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+
+  <polygon points="44 31 25 12 6 31 44 31" style="fill: rgba(0,0,0,.1)" filter="url(#blurMe)"/>
+
+  <polygon points="44 31 25 12 6 31 44 31" style="fill: #fff"/>
+</svg>
