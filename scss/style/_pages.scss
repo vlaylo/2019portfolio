@@ -29,7 +29,9 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
     margin:auto;
-    .project {
+    justify-items: center;
+    margin-bottom: 200px;
+    .project 
         width: 400px;
         height: 400px;
         background-size: cover;
