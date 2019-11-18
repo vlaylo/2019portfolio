@@ -48,6 +48,11 @@
         transition: all 0.2s ease-in-out;
     }
 
+    .project::after {
+        content: "";
+       transition: all 0.2s ease-in-out;
+   }
+
     .project:hover::after {
          content: "";
         background: rgba(0,0,0,0.5);
