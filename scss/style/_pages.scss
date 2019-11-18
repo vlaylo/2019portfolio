@@ -25,9 +25,13 @@
 
 //home 
 .project-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin:auto;
     .project {
-        width: 500px;
-        height: 500px;
+        width: 400px;
+        height: 400px;
         background-size: cover;
         background-position: center;
     }
