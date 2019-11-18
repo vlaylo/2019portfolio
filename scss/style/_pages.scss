@@ -40,13 +40,16 @@
         width: auto;
         position: relative;
     }
-
-
-}
-
-.project-grid:hover ~ .project {
+    .project:hover {
         transform: scale(1.1);
         transition: all 0.2s ease-in-out;
+    }
+
+    .project:hover .project-grid {
+        background: black;
+    }
+
 }
+
 
 //home 
