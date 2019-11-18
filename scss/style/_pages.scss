@@ -39,12 +39,14 @@
         height: 100%;
         width: auto;
         position: relative;
+        height: 300px;
+        width:300px;
     }
 
     .project::after {
         content: "";
         background: black;
-        position: relative;
+        position: ab;
         width: 100%;
         height: 100%;
     }
