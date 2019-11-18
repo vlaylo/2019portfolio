@@ -41,6 +41,9 @@
         position: relative;
         height: 300px;
         width:300px;
+        border: 2px solid lightgray;
+        display: grid;
+        align-items: center;
     }
 
     .project:hover {
