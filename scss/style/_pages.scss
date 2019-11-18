@@ -31,12 +31,21 @@
     margin:auto;
     justify-items: center;
     margin-bottom: 200px;
-    .project 
+
+    .project {
         width: 400px;
         height: 400px;
         background-size: cover;
         background-position: center;
+        transition: all 0.2s ease-in-out;
+    }
+
+    .project:hover {
+        background-size: 450px;
+        transition: all 0.2s ease-in-out;
     }
 }
+
+
 
 //home 
