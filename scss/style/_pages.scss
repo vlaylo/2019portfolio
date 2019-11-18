@@ -32,9 +32,9 @@
     justify-items: center;
     margin-bottom: 200px;
     text-align: center;
+    max-height: 400px;
+    overflow: hidden;
     .project {
-        width: 400px;
-        height: 400px;
         transition: all 0.2s ease-in-out;
     }
 
