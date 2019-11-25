@@ -99,4 +99,13 @@
         }
     }
 }
+
+@media screen and (max-width: 400px) {
+    .project-grid {
+        .project {
+            height: 280px;
+            width: 280px;
+        }
+    }
+}
 //home 
