@@ -24,6 +24,25 @@ header {
                         text-decoration: none;
                         color: black;
                         font-weight: bold;
+                        transition: all 0.2s ease-in-out;
+                    }
+                }
+
+            }
+        }
+        
+        
+    }
+}
+
+header {
+    #main-header-menu-container {
+        .menu-menu-1-container {
+            .menu {
+                li {
+                    a:hover {
+                        opacity: 0.8;
+                        transition: all 0.2s ease-in-out;
                     }
                 }
 
