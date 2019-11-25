@@ -33,6 +33,7 @@
     margin-bottom: 200px;
     text-align: center;
     overflow: hidden;
+
     .project {
         transition: all 0.2s ease-in-out;
         height: 100%;
@@ -45,6 +46,7 @@
         align-items: center;
         justify-content: center;
         transition: all 0.2s ease-in-out;
+        cursor: pointer;
     }
 
     .project img {
