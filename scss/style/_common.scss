@@ -49,3 +49,19 @@ h1 {
 
     }
 }
+@media screen and (max-width: 800px) {
+    h1 {
+        width: 600px;
+    }
+}
+@media screen and (max-width: 600px) {
+    h1 {
+        width: 400px;
+    }
+}
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 3px;
+        width: 260px;
+    }
+}
