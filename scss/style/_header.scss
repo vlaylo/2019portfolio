@@ -1,7 +1,7 @@
 header {
     width: 100%;
-    background: black;
-    height: 30px;
+    background: transparent;
+    height: 100px;
     display: flex;
     align-items: center;
     padding: 0 20px;
@@ -22,7 +22,7 @@ header {
                     margin-right: 2em;
                     a {
                         text-decoration: none;
-                        color: white;
+                        color: black;
                         font-weight: bold;
                     }
                 }
@@ -35,7 +35,7 @@ header {
 }
 
 #header-name {
-    color: white;
+    color: black;
     font-weight: bold;
     width: 300px;
 }
