@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&display=swap');
+
 * {
     box-sizing: border-box;
     font-size: 16px;
@@ -5,7 +7,8 @@
 
 html, body {
     margin: 0;
-    font-family: 'Inconsolata', sans-serif
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 
 footer {
@@ -29,13 +32,19 @@ h1 {
 }
 
 #page {
-    max-width: 1280px;
+    max-width: 800px;
     margin: auto;
     padding: 0 20px;
 }
 
 .margin-bottom-50 {
-    margin-bottom: 50px;
+    // margin-bottom: 100px;
+    border-top: 1px solid lightgray;
+    padding: 50px 0;
+}
+
+.margin-top-img {
+    margin-top: 50px;
 }
 
 .align-items-center{
