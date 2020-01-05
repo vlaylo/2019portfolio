@@ -129,6 +129,10 @@ img {
 .two-column-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
+
+    img {
+        box-shadow: none;
+    }
 }
 
 .two-column-grid-container {
