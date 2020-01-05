@@ -124,3 +124,16 @@ img {
     }
 }
 //home 
+
+//story
+.two-column-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 700px) {
+    .two-column-grid {
+        display: block;
+    }
+}
+//story
