@@ -70,6 +70,11 @@ h5 {
     border: 2px solid;
 }
 
+.ghost-button:hover {
+    color:#ea6e6e;
+    opacity: 0.8
+}
+
 
 @media screen and (max-width: 1000px) {
     // h1 {
