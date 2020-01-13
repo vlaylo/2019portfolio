@@ -13,7 +13,11 @@ html, body {
     background: #f8f8f8;
 }
 
-
+.ghost-button {
+    background: transparent;
+    color:#ea6e6e;
+    border: 2px solid;
+}
 p {
     color:black;
     line-height: 1.5;
