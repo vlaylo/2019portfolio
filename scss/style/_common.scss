@@ -61,13 +61,14 @@ h5 {
 .wp-block-button__link {
     background: #ea6e6e;
     min-width: 200px;
-    .ghost-button {
-        background: transparent;
-        color:#ea6e6e;
-        border: 2px solid;
-    }
+
 }
 
+.ghost-button {
+    background: transparent;
+    color:#ea6e6e;
+    border: 2px solid;
+}
 
 
 @media screen and (max-width: 1000px) {
