@@ -17,14 +17,15 @@
 			dynamic_sidebar('Pre-Footer');
 		}
 	?>
-	<!-- <footer>
+	<footer>
 		
 		<?php
 			if(is_active_sidebar('Footer')){
 			dynamic_sidebar('Footer');
 		}
 	?>
-	</footer> -->
+	</footer>
+	
 	<!-- main-footer -->
 </div><!-- #page -->
 
