@@ -98,6 +98,11 @@ img {
     font-weight: bold;
 }
 
+.home-buttons {
+    width: max-content;
+    margin: auto;
+}
+
 @media screen and (max-width: 900px) {
     .project-grid {
         .project {
