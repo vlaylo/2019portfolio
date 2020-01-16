@@ -9,9 +9,13 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    cursor: pointer;
     p {
         font-size: 25px;
     font-weight: 500;
     color: white;    }
+}
+
+footer:hover {
+    opacity: 0.8;
 }
