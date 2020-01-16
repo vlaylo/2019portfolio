@@ -11,6 +11,9 @@ footer {
     justify-content: center;
     cursor: pointer;
     transition: all 0.2s;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
 
     p {
         font-size: 20px;
