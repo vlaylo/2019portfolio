@@ -30,7 +30,7 @@
     font-style: italic;
 }
 
-.quote::after {
+.quote::before {
     content: '';
     position: relative;
     left: 0;
