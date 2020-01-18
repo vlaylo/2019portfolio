@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800,800i&display=swap');
 
 
 * {
@@ -12,7 +13,7 @@
 
 html, body {
     margin: 0;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open-Sans', sans-serif;
     font-weight: 300;
     scroll-behavior: smooth;
     background: #f8f8f8;
