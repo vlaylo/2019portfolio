@@ -30,6 +30,15 @@
     font-style: italic;
 }
 
+.quote::after {
+    content: '';
+    position: relative;
+    left: 0;
+    height: 100%;
+    width: 20px;
+    background:black;
+}
+
 
 .home-project-thumbnail {
     width: 500px;
