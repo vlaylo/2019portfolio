@@ -9,7 +9,7 @@ header {
     top:0;
     z-index: 9999;
     border-bottom: 1px solid #f4f4f4;
-    background: black;
+    // background: black;
     
     #main-header-menu-container {
         width: 100%;
@@ -23,8 +23,8 @@ header {
                     // margin-right: 2em;
                     a {
                         text-decoration: none;
-                        color: white;
-                        font-weight: bold;
+                        color: black;
+                        font-weight: normal;
                         transition: all 0.2s ease-in-out;
                     }
                 }
@@ -55,8 +55,8 @@ header {
 }
 
 #header-name {
-    color: white;
-    font-weight: bold;
+    color: black;
+    font-weight: normal;
     width: 300px;
 }
 
