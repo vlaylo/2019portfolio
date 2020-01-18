@@ -29,7 +29,7 @@ p {
 
 li {
     line-height: 1.8;
-    color: #ea6e6e;
+    color: $primaryColor;
 }
 
 ol li {
@@ -55,7 +55,7 @@ h1.intro{
 
 h5 {
     font-size: 28px;
-    // color: #ea6e6e;
+    // color: $primaryColor;
     color: black;
     font-weight: 600;
     font-family: 'Lora', serif;
@@ -84,7 +84,7 @@ h5 {
 }
 
 .wp-block-button__link {
-    background: #ea6e6e;
+    background: $primaryColor;
     min-width: 200px;
     padding: 20px;
     transition: all 0.2s;
@@ -100,16 +100,16 @@ h5 {
 
 .ghost-button {
     background: transparent;
-    color:#ea6e6e;
+    color:$primaryColor;
     border: 2px solid;
 }
 
 .ghost-button:hover {
-    color:#ea6e6e;
+    color:$primaryColor;
     opacity: 0.8
 }
 .ghost-button:visited {
-    color:#ea6e6e;
+    color:$primaryColor;
 }
 
 // .page.post-234 {

@@ -17,7 +17,7 @@
 }
 
 .quote {
-    color: #ea6e6e;
+    color: $primaryColor;
     font-family: 'Lato', serif;
     // width: 550px;
     font-weight: normal;
@@ -37,7 +37,7 @@
     left: 0;
     height: 100%;
     width: 15px;
-    background:#ea6e6e;
+    background:$primaryColor;
 }
 
 
@@ -110,7 +110,7 @@ img {
 
 .project-name {
     font-size: 20px;
-    color: #ea6e6e;
+    color: $primaryColor;
     font-weight: bold;
 }
 
