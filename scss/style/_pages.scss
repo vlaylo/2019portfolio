@@ -28,11 +28,12 @@
     padding-left: 50px;
     margin-bottom: 60px;
     font-style: italic;
+    position: relative;
 }
 
 .quote::before {
     content: '';
-    position: relative;
+    position: absolute;
     left: 0;
     height: 100%;
     width: 20px;
