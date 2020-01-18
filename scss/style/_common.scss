@@ -73,7 +73,16 @@ h5 {
     background: #ea6e6e;
     min-width: 200px;
     padding: 20px;
+    transition: all 0.2s;
+
 }
+
+.wp-block-button__link:hover{
+   opacity: 0.8;
+   transition: all 0.2s;
+}
+
+
 
 .ghost-button {
     background: transparent;
