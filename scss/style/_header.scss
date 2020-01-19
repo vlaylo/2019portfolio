@@ -36,6 +36,13 @@ header {
     }
 }
 
+header::before {
+    content: '';
+    filter: blur(0.8);
+    height: 100%;
+    width: 100%;
+}
+
 header {
     #main-header-menu-container {
         .menu-menu-1-container {
