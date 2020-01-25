@@ -158,7 +158,7 @@ img {
         }
     }
     .intro-snippet {
-        max-width :420px;
+        max-width:420px;
         font-size: 18px;
         margin: auto;
         margin-top: 30px;
@@ -172,14 +172,7 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-    .intro-snippet {
-        max-width:400px;
-        font-size: 18px;
-    }
 
-    h1.intro {
-        font-size: 35px;
-    }
 }
 
 @media screen and (max-width: 400px) {
