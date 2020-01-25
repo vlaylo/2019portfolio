@@ -141,6 +141,12 @@ img {
     }
 }
 
+@media screen and (max-width: 770px) {
+    .project-grid div {
+        margin-bottom: 40px;
+    }
+}
+
 @media screen and (max-width: 700px) {
     .project-grid {
         display: block;
