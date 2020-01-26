@@ -10,7 +10,7 @@
 
 .banner-short{
     // min-height: 100vh;
-    margin: 50px 0;
+    margin: 50px auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items:center;
@@ -135,7 +135,6 @@ img {
 @media screen and (max-width: 1200px) {
     .banner-short {
         max-width: 800px;
-        margin: auto;
     }
 }
 
