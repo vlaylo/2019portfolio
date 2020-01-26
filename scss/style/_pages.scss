@@ -123,6 +123,13 @@ img {
 .intro-snippet {
     font-size: 20px;
 }
+
+@media screen and (max-width: 1200px) {
+    .banner-short {
+        display: block;
+        max-width: 800px;
+    }
+}
 @media screen and (max-width: 1000px) {
     .intro-snippet {
         max-width: 600px;
