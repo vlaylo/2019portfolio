@@ -10,3 +10,18 @@
 .hamburger-button {
     display: none;
 }
+
+@media screen and (max-width: 1000px) {
+    #mobile-menu {
+        display: unset;
+    }
+    
+    .mm-inner {
+        display: unset;
+    }
+    
+    
+    .hamburger-button {
+        display: unset;
+    }
+}
