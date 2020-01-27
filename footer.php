@@ -17,6 +17,7 @@
 			dynamic_sidebar('Pre-Footer');
 		}
 	?>
+	<a href="https://vincelaylo.com/wp-content/uploads/2020/01/uxresume2019.pdf">
 	<footer>
 		
 		<?php
@@ -25,6 +26,8 @@
 		}
 	?>
 	</footer>
+
+	</a>
 	
 	<!-- main-footer -->
 </div><!-- #page -->
