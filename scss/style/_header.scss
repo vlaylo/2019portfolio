@@ -93,5 +93,31 @@ header {
 
     #header-name {
         font-size: 14px;
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    
+    header {
+        padding: 20px;
+        #main-header-menu-container {
+            .menu-menu-1-container {
+                .menu {
+                    li {
+                        a {
+                            font-size: 14px;
+                        }
+                    }
+    
+                }
+            }
+            
+            
+        }
+    }
+
+    #header-name {
+        font-size: 14px;
     }
 }
