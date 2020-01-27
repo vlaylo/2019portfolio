@@ -239,6 +239,7 @@ img {
     min-height: 100vh;
 }
 
+
 @media screen and (max-width: 800px) {
     .two-column-grid {
         display: block;
@@ -256,5 +257,13 @@ img {
     
 }
 
+@media screen and (max-width: 600px) {
+    .two-column-grid {
+        p {
+            font-size: 14px;
+        }
+    }
+    
+}
 
 //story
