@@ -248,6 +248,10 @@ img {
             margin: auto;
             display: block;
         }
+
+        div:first-child {
+            margin-top: 50px;
+        }
     }
     
 }
