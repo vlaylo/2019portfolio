@@ -239,9 +239,13 @@ img {
     min-height: 100vh;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     .two-column-grid {
         display: block;
+        margin-top: 100px;
     }
+    
 }
+
+
 //story
