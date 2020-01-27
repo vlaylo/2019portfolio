@@ -212,6 +212,14 @@ img {
         min-height: unset;
     }
 }
+
+@media screen and (max-width: 350px) {
+    .project-grid {
+        .project {
+            height: 220px;
+            width: 220px;
+        }
+    }
 //home 
 
 //story
