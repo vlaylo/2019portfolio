@@ -26,3 +26,11 @@ footer:hover {
     opacity: 0.8;
     transition: all 0.2s;
 }
+
+
+@media screen and (max-width: 1000px) {
+    #footer-cta {
+        font-size: 14px;
+    }
+}
+
