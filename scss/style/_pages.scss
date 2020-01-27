@@ -210,7 +210,7 @@ img {
 
     .banner-short {
         min-height: unset;
-    }
+    } 
 }
 
 @media screen and (max-width: 350px) {
@@ -243,6 +243,11 @@ img {
     .two-column-grid {
         display: block;
         margin-top: 100px;
+
+        img {
+            margin: auto;
+            display: block;
+        }
     }
     
 }
