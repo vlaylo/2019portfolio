@@ -69,7 +69,16 @@ h5 {
     margin-bottom: 50px;
     padding-bottom: 20px;
     border-bottom: 1px solid black;
+    position: relative;
+}
 
+h5::after {
+    content: "";
+    height: 100%;
+    width: 20px;
+    position: absolute;
+    right: 0;
+    background: black;
 }
 
 #page {
