@@ -23,8 +23,8 @@ html, body {
 }
 
 p {
-    // color: #787878;
-    color: black;
+    color: #787878;
+    // color: black;
     line-height: 1.8;
     margin-bottom: 0;
 }
@@ -65,12 +65,12 @@ h1.intro{
 h5 {
     font-size: 36px;
     // color: $primaryColor;
-    color: #989898;
+    color: black;
     font-weight: 300;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 1px solid #989898;
+    border-bottom: 1px solid black;
     position: relative;
 }
 
@@ -80,7 +80,7 @@ h5::after {
     width: 1px;
     position: absolute;
     right: 0;
-    background: #989898;
+    background: black;
 }
 
 #page {
