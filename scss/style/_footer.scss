@@ -4,7 +4,8 @@
 
 footer {
     height: 100px;
-    background: black;
+    // background:solid;
+    border: 1px solid black;
     // margin-bottom: 50px;
     display: flex;
     align-items: center;
@@ -20,13 +21,14 @@ footer {
     p {
         font-size: 20px;
     font-weight: 500;
-    color: white;    
+    color: black;    
     padding: 20px;
 
     }
 }
 
 footer:hover {
+    background: darkgray;
     opacity: 0.8;
     transition: all 0.2s;
 }
