@@ -19,7 +19,7 @@ footer {
     margin-top: 50px;
 
     p {
-        font-size: 20px;
+    font-size: 20px;
     font-weight: 500;
     color: black;    
     padding: 20px;
@@ -28,9 +28,13 @@ footer {
 }
 
 footer:hover {
-    background: darkgray;
+    background: black;
     opacity: 0.8;
     transition: all 0.2s;
+
+    p{
+        color: white;
+    }
 }
 
 
