@@ -9,20 +9,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
     "gulp-autoprefixer": "^7.0.0",
     "gulp-babel": "^8.0.0-beta.2",
     "gulp-babel-minify": "^0.5.1",
     "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.14.1"
   },
   "browserslist": [
     "last 4 version"
   ],
   "dependencies": {
+    "browserlist": "^1.0.1",
+    "caniuse-lite": "^1.0.30001120",
     "gulp": "^4.0.2"
   }
 }
