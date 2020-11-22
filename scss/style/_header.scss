@@ -70,7 +70,10 @@ header {
     max-width: 300px;
 }
 
-
+#logo {
+    max-height: 50px;
+    box-shadow: unset !important;
+}
     
 
 @media screen and (max-width: 600px) {
