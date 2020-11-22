@@ -80,10 +80,9 @@ h5 {
     // color: $primaryColor;
     color: black;
     font-weight: 300;
-    font-family: 'Open Sans', sans-serif;
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 1px solid black;
+    // border-bottom: 1px solid black;
     position: relative;
 }
 
@@ -174,23 +173,22 @@ h5::after {
     margin-top: 100px;
 }
 
-.bg-elements {
-    height: 100%;
-    width: 100%;
-    position: relative;
-}
+// .bg-elements {
+//     height: 100%;
+//     width: 100%;
+//     position: relative;
+// }
 
-.bg-elements:before {
-    content: "";
-    height: 100%;
-    width: 100%;
-    background: #eaeaea;
-    position: absolute;
-    left: 50px;
-    top: 50px;
-    z-index: -1;
-
-}
+// .bg-elements:before {
+//     content: "";
+//     height: 100%;
+//     width: 100%;
+//     background: #eaeaea;
+//     position: absolute;
+//     left: 50px;
+//     top: 50px;
+//     z-index: -1;
+// }
 
 @media screen and (max-width: 1000px) {
     // h1 {
