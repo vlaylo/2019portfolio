@@ -20,7 +20,8 @@
 
 .quote {
     color: #424242;
-    font-weight: normal;
+    font-weight: 600;
+    font-size: 20px;;
     margin-top: 60px;
     border: 1px solid #424242;
     border-left: none;
@@ -28,10 +29,10 @@
     margin: 60px auto;
     margin-bottom: 60px;
     border-right: 0;
-    font-style: italic;
     position: relative;
-    width: 50%;
+    width: 500px;
     text-align: center;
+    font-family: 'Circular-Loom';
 }
 
 
@@ -40,7 +41,7 @@
     content: '';
 }
 
-
+ 
 .home-project-thumbnail {
     width: 500px;
     height: 500px;
