@@ -41,7 +41,7 @@
 
 <header id="main-header">
   <div id="main-logo-container">
-        <a href="<?php echo get_site_url() ?>"><img id="logo" src="<?php echo get_site_url() ?>wp-content/uploads/2020/11/logo.png"></a>               
+        <a href="<?php echo get_site_url() ?>"><img id="logo" src="<?php echo get_site_url() ?>/wp-content/uploads/2020/11/logo.png"></a>               
     </div>
     <!-- <a href="/"><div id="header-name">
         <span style="font-weight:bold;  font-size: inherit;">VINCE</span> LAYLO
