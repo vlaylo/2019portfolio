@@ -194,10 +194,9 @@ h5::after {
 //     z-index: -1;
 // }
 
-.case-study-hero {
-    max-width: 512px;
-    display: block;
-    margin: auto;
+.case-study-description {
+    background: #202022;
+    color: white;
 }
 
 @media screen and (max-width: 1000px) {
