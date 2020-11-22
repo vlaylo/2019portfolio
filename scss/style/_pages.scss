@@ -8,6 +8,7 @@
     justify-content: center;
 }
 
+
 .banner-short{
     // min-height: 100vh;
     margin: 100px auto;
@@ -18,27 +19,24 @@
 }
 
 .quote {
-    color: $primaryColor;
-    font-family: 'Lato', serif;
-    // width: 550px;
+    color: black;
     font-weight: normal;
-    // margin: auto;
-    // text-align: center;
-    font-size: 24px;
     margin-top: 60px;
-    padding-left: 50px;
+    border: 1px solid #49cd9f;
+    border-left: none;
+    padding: 20px;
+    margin: 60px auto;
     margin-bottom: 60px;
+    border-right: 0;
     font-style: italic;
     position: relative;
+    width: 50%;
 }
+
+
 
 .quote::before {
     content: '';
-    position: absolute;
-    left: 0;
-    height: 100%;
-    width: 15px;
-    background:$primaryColor;
 }
 
 
