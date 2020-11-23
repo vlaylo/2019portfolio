@@ -65,6 +65,13 @@ img {
     }
 }
 
+.has-3-columns, .project-grid {
+
+    .wp-block-image img {
+        max-height: 500px;
+    }
+}
+
 @media screen and (max-width: 450px) {
     .quote {
        font-size: 20px;
