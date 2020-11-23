@@ -197,13 +197,10 @@ h5::after {
 .case-study-description {
     background: #202022;
 
-    p {
+    p, h1, li, h5 {
         color: white;;
     }
 
-    h1 {
-        color: white;;
-    }
 }
 
 @media screen and (max-width: 1000px) {
