@@ -18,6 +18,11 @@ a {
     color: $primaryColor;
 }
 
+a:hover {
+    opacity: 0.85;
+}
+
+
 html, body {
     margin: 0;
     font-family: 'Circular-Loom', sans-serif;
