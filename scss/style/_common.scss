@@ -221,15 +221,16 @@ h5::after {
     //     font-size: 40px;
 
     // }
+
+    .set-width {
+        padding: 40px !important;
+    }
 }
 @media screen and (max-width: 800px) {
     h1 {
         width: 600px;
     }
 
-    .set-width {
-        padding: 40px !important;
-    }
 }
 @media screen and (max-width: 600px) {
     h1 {
