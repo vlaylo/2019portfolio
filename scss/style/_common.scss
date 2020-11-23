@@ -205,6 +205,10 @@ h5::after {
         color: white;;
     }
 
+    img {
+        box-shadow: unset !important;
+    }
+
 }
 
 @media screen and (max-width: 1000px) {
