@@ -58,6 +58,13 @@ img {
     margin: auto;
 }
 
+.has-2-columns {
+
+    .wp-block-image img {
+        max-width: 100%
+    }
+}
+
 @media screen and (max-width: 450px) {
     .quote {
        font-size: 20px;
