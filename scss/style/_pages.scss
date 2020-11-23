@@ -50,10 +50,12 @@
 img {
     box-shadow: 2px 8px 15px darkgray;
     border-radius: 20px;
+}
+
+.wp-block-image img {
     max-width: 700px;
     display: block;
     margin: auto;
-
 }
 
 @media screen and (max-width: 450px) {
