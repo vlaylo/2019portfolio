@@ -74,14 +74,22 @@ img {
 
 @media screen and (max-width: 600px) {
     .quote {
-       max-width: 450px;
+       max-width: 375px;
     }
     
 }
 
 @media screen and (max-width: 450px) {
     .quote {
-       font-size: 20px;
+       max-width: 250px;
+    }
+    
+}
+
+@media screen and (max-width: 300px) {
+    .quote {
+       max-width: 150px;
+       font-size: 14px;
     }
     
 }
