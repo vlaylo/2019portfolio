@@ -72,6 +72,13 @@ img {
     }
 }
 
+@media screen and (max-width: 600px) {
+    .quote {
+       max-width: 450px;
+    }
+    
+}
+
 @media screen and (max-width: 450px) {
     .quote {
        font-size: 20px;
@@ -168,7 +175,7 @@ img {
         font-size: 40px;
     }
 
-
+}
 @media screen and (max-width: 900px) {
     .project-grid {
         .project {
