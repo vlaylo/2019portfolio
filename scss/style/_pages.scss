@@ -72,6 +72,13 @@ img {
     }
 }
 
+@media screen and (max-width: 800px) {
+    .wp-block-image img {
+        max-width: 400px;
+        display: block;
+        margin: auto;
+    }
+}
 @media screen and (max-width: 600px) {
     .quote {
        max-width: 375px;
