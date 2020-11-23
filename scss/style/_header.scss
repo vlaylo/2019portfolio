@@ -37,14 +37,14 @@ header {
     }
 }
 
-header::before {
-    content: '';
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    backdrop-filter: blur(3px);
-    z-index: -1;
-}
+// header::before {
+//     content: '';
+//     height: 100%;
+//     width: 100%;
+//     position: absolute;
+//     backdrop-filter: blur(3px);
+//     z-index: -1;
+// }
 
 header {
     #main-header-menu-container {
