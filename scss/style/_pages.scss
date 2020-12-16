@@ -288,6 +288,7 @@ img {
 .two-column-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    align-items: center;
 
     img {
         box-shadow: none;
