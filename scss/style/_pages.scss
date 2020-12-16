@@ -322,6 +322,15 @@ img {
     }
     
 }
+@media screen and (max-width: 500px) {
+    .two-column-grid-container {
+        display: flex;
+        align-items: center;
+        min-height: 100vh;
+        padding: 30px;
+    }
+    
+}
 
 //story
 
