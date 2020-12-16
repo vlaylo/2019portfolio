@@ -148,23 +148,23 @@ img {
         transition: all 0.2s ease-in-out;
     }
 
-    // .project::after {
-    //     content: "";
-    //    transition: all 0.2s ease-in-out;
-    //    background: black;
-    //    position: absolute;
-    //    width: 100%;
-    //    height: 100%;
-    //    top:0;
-    //    left:0;
-    //    opacity: 0; 
-    // }
+    .project::after {
+        content: "";
+       transition: all 0.2s ease-in-out;
+       background: black;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top:0;
+       left:0;
+       opacity: 0; 
+    }
 
-    // .project:hover::after {
-    //      content: "";
-    //      opacity: 0.2;
-    //     transition: all 0.2s ease-in-out;
-    // }
+    .project:hover::after {
+         content: "";
+         opacity: 0.2;
+        transition: all 0.2s ease-in-out;
+    }
 }
 
 .project-name {
