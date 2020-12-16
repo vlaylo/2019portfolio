@@ -162,7 +162,7 @@ img {
 
     .project:hover::after {
          content: "";
-         opacity: 0.2;
+         opacity: 0.1;
         transition: all 0.2s ease-in-out;
     }
 }
